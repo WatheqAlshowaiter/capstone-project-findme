@@ -12,6 +12,12 @@ Our website can be used by any user with all functionalities except posting or e
 * Only Google-authenticated users can post for their lost/missed relatives people or updating their post
 * Google authentication will appear whenever there is a need to post or updating posts
 
+## Website Technolgies
+* **Tailwind CSS**
+* **React.js** 
+* **Material UI**
+* **Firebase**
+
 ## Website pages
 * Home page
 * About us
